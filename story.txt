@@ -3,6 +3,14 @@ The CP1 Story
 I woke up in the morning.
 I made myself tea. It was a chai tea.
 I went to school.
+I went to period 1, Physics
+I went to period 2, English
+I went to period 3, German
+I went to period 4, World History.
+I went to period 5, Lunch.
+I went to period 6, PE.
+I went to period 7, Math.
+I went to period 8, Programming.
 I came home from school.
 I cooked myself dinner.
 I went to sleep.
